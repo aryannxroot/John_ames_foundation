@@ -1,13 +1,13 @@
 @font-face {
     font-family: manuka;
-    src: url(./manuka-regular.ttf);
+    src: url(/John_ames_foundation/manuka-regular.ttf);
     font-weight: 500;
 }
 
 @font-face {
     font-family: manuka;
     font-weight: 700;
-    src: url(./manuka-bold.ttf);
+    src: url(/John_ames_foundation/manuka-bold.ttf);
 }
 
 * {
@@ -111,7 +111,7 @@ body {
 #texture {
     height: 100%;
     width: 100%;
-    background-image: url(./bg-texture.jpg);
+    background-image: url(/John_ames_foundation/bg-texture.jpg);
     opacity: 0.5;
     position: absolute;
 }
